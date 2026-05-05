@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f8f8,100:e8e8e8&height=120&section=header" width="100%"/>
 
-# Fred
+# Howzit, I'm Fred 👋
 
 **Software Engineer. AI and Automations. Slightly-below-average golfer.**
 
