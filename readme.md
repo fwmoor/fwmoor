@@ -14,7 +14,7 @@ Cape Town, ZA
 
 I build software and wire up AI agents and automated workflows. Sometimes I break software for fun.
 
-Also trying to lower my golf handicap. Both are ongoing.
+I'm also trying to lower my golf handicap. Both are ongoing.
 
 ---
 
